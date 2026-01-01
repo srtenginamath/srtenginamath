@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharanayya R Tenginamath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [www.techswamykannada.com](www.techswamykannada.com)
+- 👨‍💻 All of my projects are available at [www.techswamykannada.in](https://www.techswamykannada.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
