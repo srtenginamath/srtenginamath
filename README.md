@@ -42,16 +42,7 @@ Experienced in **product startups and cross-functional teams**, delivering measu
 - **OwnStory** – Digital memorial platform reducing manual effort by **5 hrs/week**  
 - **Phoneo** – Booking & payment platform improving conversion by **18%**
 
----
 
-## GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=srtenginamath&show_icons=true&hide=issues&count_private=true&theme=default" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=srtenginamath&theme=default" />
-</p>
-
----
 
 ## Contact
 
