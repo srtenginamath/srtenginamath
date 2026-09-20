@@ -55,11 +55,7 @@ Project	Description	Tech Stack	Link
 <div align="center">
 Show Image
 
-Show Image
-
-Show Image
-
-</div>
+</div> <!-- github-readme-stats.vercel.app was returning 503 on 20 Sep 2026 and github-readme-activity-graph is now 402 (paid). Re-add the cards below only after checking the URL loads in a browser: ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srtenginamath&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srtenginamath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9) -->
 🤝 Let's Connect
 I'm serving my notice period and available to join from 12 October 2026, open to:
 
